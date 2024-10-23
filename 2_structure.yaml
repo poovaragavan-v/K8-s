@@ -1,0 +1,6 @@
+apiVersion: <api-version>
+kind: <resource-type>
+metadata:
+  name: <name-of-resource>
+spec:
+  <resource-specifications>
